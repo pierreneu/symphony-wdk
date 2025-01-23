@@ -1,9 +1,3 @@
----
-description: >-
-  The Workflow Developer Kit (WDK) accelerates building of workflows using a
-  low-code environment with an optional graphical interface
----
-
 # Getting Started with WDK
 
 ## Deployment Options
